@@ -57,4 +57,4 @@ The backend AI logic is powered by **n8n**, with data stored in **Supabase**.
 - The frontend sends ingredient lists to the n8n webhook.
 - The workflow calls the AI model, formats the recipe, and returns it to the frontend.
 
-![n8n Workflow](./docs/n8n_workflow.png)
+![n8n Workflow](./docs/n8n_workflow.PNG)
