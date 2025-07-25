@@ -19,7 +19,7 @@ export const generateRecipe = async (request: GenerateRecipeRequest): Promise<Ge
     })
 
     // Call n8n webhook
-    const response = await fetch('https://n8n-51ds.onrender.com/webhook/a04f6a48-7d00-4920-b1da-b8e99ef3b9e1', {
+    const response = await fetch('https://n8n-51ds.onrender.com/webhook/7e30a2c7-7de1-4fec-8aac-97700f728fe0', {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
