@@ -24,6 +24,13 @@ The backend AI logic is powered by **n8n**, with data stored in **Supabase**.
 
 ---
 
+## 🌐 Live Demo
+
+Check out the live version of this website here:  
+👉 [https://nexium-ansh-project.vercel.app/](https://nexium-ansh-project.vercel.app/)
+
+---
+
 ## Setup & Installation
 
 1. **Clone this repository**
